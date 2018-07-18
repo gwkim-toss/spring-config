@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- logback-dev.xml -->
+<!-- logback-dev.xml ${message} -->
 <configuration>
     <include resource="logback-metric-dev.xml" />
 
